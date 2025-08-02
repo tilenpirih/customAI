@@ -31,13 +31,14 @@ def make_gemini_request_with_context(prompt_text):
     
     # Create enhanced prompt with context
     if relevant_context:
-        enhanced_prompt = f"""Kontekst iz predpisov o trenerskih licencah:
-    {relevant_context}
+        enhanced_prompt = f"""Kontekst iz mojih podatkov:
+        {relevant_context}
 
-    Na podlagi zgornjega konteksta odgovori na naslednje vprašanje:
-    {prompt_text}
+        Na podlagi zgornjega konteksta odgovori na naslednje vprašanje:
+        {prompt_text}
 
-    Odgovori v slovenščini in uporabi informacije iz konteksta, kjer je to relevantno."""
+        Odgovori v slovenščini in uporabi informacije iz konteksta, kjer je to relevantno.
+        """
     else:
         enhanced_prompt = prompt_text
     
