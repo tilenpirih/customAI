@@ -1,13 +1,16 @@
 # CustomAI - Basketball Coaching License Assistant
 
-A custom AI project that uses vector database to enhance Gemini API responses with relevant context from basketball coaching license regulations.
+A FastAPI-powered AI assistant that uses vector database to enhance Gemini API responses with relevant context from basketball coaching license regulations.
 
 ## Features
 
-- **Vector Database Integration**: Uses ChromaDB to store and retrieve relevant context
-- **Semantic Search**: Leverages sentence transformers for finding relevant information
-- **Enhanced AI Responses**: Combines retrieved context with Gemini API for accurate answers
-- **Multilingual Support**: Works with Slovenian language content about basketball coaching licenses
+- **🚀 FastAPI REST API**: Modern, fast web API with automatic documentation
+- **🔍 Vector Database Integration**: Uses ChromaDB to store and retrieve relevant context
+- **🧠 Semantic Search**: Leverages sentence transformers for finding relevant information
+- **🤖 Enhanced AI Responses**: Combines retrieved context with Gemini API for accurate answers
+- **🌐 Web Interface**: Simple HTML frontend for testing
+- **🔧 Multiple Endpoints**: Query with/without context, get context only, health checks
+- **📚 Multilingual Support**: Works with Slovenian language content about basketball coaching licenses
 
 ## Setup
 
@@ -29,36 +32,87 @@ GEMINI_API_KEY=your_api_key_here
 
 ## Usage
 
-### Basic Usage
-
-Run the main script to see an example query:
+### Start the API Server
 
 ```bash
 python main.py
 ```
 
-### Interactive Demo
+The API will be available at:
 
-Try different queries with the examples script:
+- **API Server**: http://localhost:8000
+- **Interactive Docs**: http://localhost:8000/docs (Swagger UI)
+- **Alternative Docs**: http://localhost:8000/redoc
+
+### Web Interface
+
+Open `frontend.html` in your browser for a simple web interface.
+
+### API Endpoints
+
+#### POST `/query`
+
+Ask questions with optional context from vector database:
 
 ```bash
-python examples.py
+curl -X POST "http://localhost:8000/query" \
+     -H "Content-Type: application/json" \
+     -d '{"query": "Kaj potrebujem da dobim licenco za trenerja?", "use_context": true}'
 ```
 
-### Database Management
+#### POST `/query-simple`
 
-Use the database manager to initialize, test, or manage your vector database:
+Simple endpoint that returns just the response text:
 
 ```bash
-python db_manager.py
+curl -X POST "http://localhost:8000/query-simple" \
+     -H "Content-Type: application/json" \
+     -d '{"query": "Kakšne vrste licenc obstajajo?"}'
+```
+
+#### POST `/context`
+
+Get relevant context for a query without AI response:
+
+```bash
+curl -X POST "http://localhost:8000/context" \
+     -H "Content-Type: application/json" \
+     -d '{"query": "licence za trenerje", "max_length": 500}'
+```
+
+#### GET `/health`
+
+Health check endpoint:
+
+```bash
+curl http://localhost:8000/health
+```
+
+### Test the API
+
+Use the included test client:
+
+```bash
+python test_client.py
+```
+
+### Legacy Scripts (Still Available)
+
+```bash
+python examples.py      # Interactive demo
+python db_manager.py    # Database management
 ```
 
 ## Files
 
-- `main.py` - Main script with enhanced Gemini API integration
+- `main.py` - FastAPI server entry point
+- `api.py` - FastAPI application with all endpoints
+- `ai_service.py` - AI service module with Gemini API integration
 - `vector_db.py` - Vector database class handling ChromaDB operations
-- `examples.py` - Interactive demo and example queries
-- `db_manager.py` - Utility for managing the vector database
+- `test_client.py` - API test client
+- `frontend.html` - Simple web interface for testing
+- `examples.py` - Interactive demo (legacy)
+- `db_manager.py` - Database management utility (legacy)
 - `data/data.json` - Basketball coaching license data in SQuAD format
 
 ## How It Works
@@ -76,3 +130,5 @@ python db_manager.py
 - "Kakšna licenca je potrebna za vodenje ekip v 1. SKL?" (What license is needed for 1st league teams?)
 
 The system will automatically find relevant information from the regulations and provide accurate, context-aware responses.
+
+fastapi, uvicorn, numpy, chromadb, sentence-transformers
