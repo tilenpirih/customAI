@@ -54,13 +54,13 @@ class AIService:
         
         # Create enhanced prompt with context
         if relevant_context:
-            enhanced_prompt = f"""Kontekst iz predpisov o trenerskih licencah:
-{relevant_context}
-
-Na podlagi zgornjega konteksta odgovori na naslednje vprašanje:
-{prompt_text}
-
-Odgovori v slovenščini in uporabi informacije iz konteksta, kjer je to relevantno."""
+            enhanced_prompt = f"""Odgovarjaj kot AI pomočnik za uporabnike na spletni strani. Če podatke iz konteksta ne moreš pridobiti, odgovori 'Na vprašanje žal ne znam odgovoriti.' 
+            Vprašanje oz. zahteva uporabnika je:
+            {prompt_text}
+            
+            Za odgovor lahko uporabiš naslednji kontekst, ki je bil pridobljen iz baze podatkov:
+            VSEBINA:
+            {relevant_context}"""
         else:
             enhanced_prompt = prompt_text
         
