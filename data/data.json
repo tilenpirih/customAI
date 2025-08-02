@@ -1,0 +1,1959 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Splošne določbe",
+      "paragraphs": [
+        {
+          "context": "Združenje košarkarskih trenerjev Slovenije (ZKTS) pripravi predlog kriterijev za izdajo licenc za opravljanje vzgojno-izobraževalnega dela v košarki in podeljuje ter izdaja trenerske licence/kartone za treniranje in vodenje vseh košarkarskih ekip v Sloveniji. Vrsta trenerske licence je odvisna od strokovne izobrazbe oziroma usposobljenosti v skladu z Zakonom o Športu (ZŠpo-1) in drugih pogojev, ki so navedeni v tem pravilniku.",
+          "qas": [
+            {
+              "id": "q1",
+              "question": "Kdo je pristojen za podeljevanje trenerskih licenc in od česa je odvisna njihova vrsta?",
+              "answers": [
+                {
+                  "text": "Združenje košarkarskih trenerjev Slovenije (ZKTS); vrsta licence je odvisna od izobrazbe, usposobljenosti in drugih pogojev.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vrste licenc",
+      "paragraphs": [
+        {
+          "context": "Za vodenje ekip se trenerjem lahko podeli: redna licenca, začasna licenca (za trenerje, ki še nimajo ustrezne usposobljenosti in jo pridobivajo), častna licenca (za častne člane ZKTS). Trenerske licence/kartone za vodenje košarkarskih ekip lahko dobijo samo trenerji, ki so člani ZKTS.",
+          "qas": [
+            {
+              "id": "q2",
+              "question": "Katere vrste licenc obstajajo in kdo jih lahko pridobi?",
+              "answers": [
+                {
+                  "text": "redna licenca",
+                  "answer_start": 41
+                },
+                {
+                  "text": "začasna licenca",
+                  "answer_start": 68
+                },
+                {
+                  "text": "častna licenca",
+                  "answer_start": 135
+                },
+                {
+                  "text": "le člani ZKTS",
+                  "answer_start": 183
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Strokovni nazivi",
+      "paragraphs": [
+        {
+          "context": "Strokovni nazivi in moduli: SD 1 - Strokovni delavec 1, športno treniranje, košarka; SD 2 - Strokovni delavec 2 – športno treniranje, košarka; Trener A kategorije.",
+          "qas": [
+            {
+              "id": "q3",
+              "question": "Kateri strokovni nazivi in moduli so predvideni za trenerje?",
+              "answers": [
+                {
+                  "text": "SD 1 - Strokovni delavec 1",
+                  "answer_start": 24
+                },
+                {
+                  "text": "SD 2 - Strokovni delavec 2",
+                  "answer_start": 72
+                },
+                {
+                  "text": "Trener A kategorije",
+                  "answer_start": 120
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zahtevane licence po ligah",
+      "paragraphs": [
+        {
+          "context": "Za vodenje ekip v 1. SKL moški, 2. SKL moški, 1. SKL ženske je potrebna licenca A1 ali B. Za 3. SKL moški B ali C, za 4. SKL moški C. Za U20, U18, U16 B ali C. Za U14 C. Za U12 in Malo košarko C in D. Vodja mlajših starostnih kategorij in vodja U14 in mlajših A2.",
+          "qas": [
+            {
+              "id": "q4",
+              "question": "Kakšne licence so zahtevane za vodenje ekip v različnih ligah in starostnih kategorijah?",
+              "answers": [
+                {
+                  "text": "A1 ali B za 1. SKL moški, 2. SKL moški, 1. SKL ženske",
+                  "answer_start": 41
+                },
+                {
+                  "text": "B ali C za 3. SKL moški",
+                  "answer_start": 92
+                },
+                {
+                  "text": "C za 4. SKL moški",
+                  "answer_start": 116
+                },
+                {
+                  "text": "B ali C za U20, U18, U16",
+                  "answer_start": 139
+                },
+                {
+                  "text": "C za U14",
+                  "answer_start": 162
+                },
+                {
+                  "text": "C in D za U12 in Malo košarko",
+                  "answer_start": 174
+                },
+                {
+                  "text": "A2 za vodje mlajših",
+                  "answer_start": 201
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pogoji za licenco",
+      "paragraphs": [
+        {
+          "context": "Za pridobitev trenerskega kartona mora trener izpolnjevati pogoje: plačana članarina ZKTS za tekočo sezono, ustrezen strokovni naziv (usposobljenost), zadostno število kreditnih točk za najvišji rang, opravljen seminar, vpis v razvid strokovnih delavcev v športu, opravljeno veljavno izobraževanje SLOADO.",
+          "qas": [
+            {
+              "id": "q5",
+              "question": "Kateri so osnovni pogoji za pridobitev trenerskega kartona?",
+              "answers": [
+                {
+                  "text": "plačana članarina ZKTS za tekočo sezono",
+                  "answer_start": 54
+                },
+                {
+                  "text": "ustrezen strokovni naziv",
+                  "answer_start": 99
+                },
+                {
+                  "text": "zadostno število kreditnih točk",
+                  "answer_start": 141
+                },
+                {
+                  "text": "opravljen seminar",
+                  "answer_start": 183
+                },
+                {
+                  "text": "vpis v razvid strokovnih delavcev",
+                  "answer_start": 202
+                },
+                {
+                  "text": "opravljeno izobraževanje SLOADO",
+                  "answer_start": 246
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izjeme usposobljenost",
+      "paragraphs": [
+        {
+          "context": "V primeru, da trener nima ustrezne usposobljenosti, lahko enkrat zaprosi za katerokoli licenco razen FIBA, A1 in A2. Izjemoma lahko drugič zaprosi za začasno licenco, ki velja do 1. februarja naslednje leto, če dokončuje usposabljanje. Trenerji brez minimalne usposobljenosti licence ne morejo dobiti.",
+          "qas": [
+            {
+              "id": "q6",
+              "question": "Kaj velja za trenerje brez ustrezne usposobljenosti?",
+              "answers": [
+                {
+                  "text": "enkrat začasna licenca, ne velja za FIBA, A1, A2; drugič izjemoma začasna licenca do 1. februarja naslednje leto",
+                  "answer_start": 62
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tujci EU",
+      "paragraphs": [
+        {
+          "context": "Tuj trener, ki ni državljan Republike Slovenije, je pa državljan ene izmed držav članic EU, lahko vodi ekipo na tekmovanjih članske ekipe 1. in 2. državne lige in U20 lige pod naslednjimi pogoji: izpolnjuje pogoje za delo v Republiki Sloveniji, je član ZKTS in ima plačano članarino za tekočo sezono, ima plačano licenčno takso za tuje državljane, ima ustrezen strokovni naziv, potrjen s strani IO ZKTS, se udeleži ustreznega seminarja organiziranega s strani ZKTS.",
+          "qas": [
+            {
+              "id": "q7",
+              "question": "Kakšni so pogoji za tuje trenerje iz EU za vodenje ekip v Sloveniji?",
+              "answers": [
+                {
+                  "text": "dovoljenje za delo, članstvo ZKTS, plačana članarina in licenčna taksa, ustrezen strokovni naziv, seminar ZKTS",
+                  "answer_start": 118
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kreditne točke",
+      "paragraphs": [
+        {
+          "context": "Za pridobitev trenerskega kartona mora trener zbrati določeno število kreditnih točk (KT) glede na tekmovanje. Višek KT se prenese v naslednjo sezono. Če ne zbere dovolj KT, lahko enkrat na tri leti zaprosi za podaljšanje roka. Manjkajoče KT se kasneje odštejejo.",
+          "qas": [
+            {
+              "id": "q8",
+              "question": "Kaj velja za kreditne točke in podaljšanje roka pri pridobivanju trenerskega kartona?",
+              "answers": [
+                {
+                  "text": "KT glede na tekmovanje, višek KT se prenese, možno podaljšanje roka enkrat na tri leti, manjkajoče KT se kasneje odštejejo",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vodje mlajših",
+      "paragraphs": [
+        {
+          "context": "Trenerska licenca A2 za vodje mlajših starostnih kategorij klubov velja eno leto, zato jo mora trener vsako leto potrditi. V tem času mora biti prisoten na licenčnih seminarjih in aktivno sodelovati na posvetih vodij mlajših starostnih kategorij klubov.",
+          "qas": [
+            {
+              "id": "q9",
+              "question": "Kako dolgo velja licenca A2 za vodje mlajših in kaj mora trener storiti za obnovitev?",
+              "answers": [
+                {
+                  "text": "velja eno leto, vsako leto potrditi, prisoten na seminarjih, aktivno sodelovanje na posvetih",
+                  "answer_start": 44
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izkušeni trenerji",
+      "paragraphs": [
+        {
+          "context": "Status izkušenega trenerja lahko dobijo trenerji, ki delujejo več kot 15 let v mlajših starostnih kategorijah. Status velja samo za kategorije U14 in mlajše. Trenerji s tem statusom ne potrebujejo kreditnih točk za licence: mala košarka, U12, U14, U16, U18, U20 in 3. SKL.",
+          "qas": [
+            {
+              "id": "q10",
+              "question": "Kdo lahko pridobi status izkušenega trenerja in kakšne so ugodnosti?",
+              "answers": [
+                {
+                  "text": "Trenerji z več kot 15 let izkušenj v mlajših kategorijah; ne potrebujejo kreditnih točk za licence",
+                  "answer_start": 42
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Odločanje o licencah",
+      "paragraphs": [
+        {
+          "context": "Vse trenerske licence/kartone podeljuje na 1. stopnji Svet trenerjev ZKTS. Izdajo trenerskih kartonov pa ureja Komisija za izdajo trenerskih kartonov, ki deluje v okviru Sveta trenerjev ZKTS. Na 2. stopnji o izdaji trenerskih kartonov odloča Izvršni odbor ZKTS.",
+          "qas": [
+            {
+              "id": "q11",
+              "question": "Kdo odloča o izdaji trenerskih licenc in kartonov?",
+              "answers": [
+                {
+                  "text": "Svet trenerjev ZKTS (1. stopnja), Komisija za izdajo kartonov, Izvršni odbor ZKTS (2. stopnja)",
+                  "answer_start": 53
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Več klubov",
+      "paragraphs": [
+        {
+          "context": "V obdobju, ko je trener zaposlen v enem klubu, ne more delati tudi v drugem klubu oz. voditi ekip iz več klubov. Morebitne izjeme, na podlagi pravočasne vloge, rešuje IO ZKTS.",
+          "qas": [
+            {
+              "id": "q12",
+              "question": "Ali trener lahko vodi ekipe v več klubih hkrati?",
+              "answers": [
+                {
+                  "text": "Ne, razen če IO ZKTS odobri izjemo na podlagi vloge.",
+                  "answer_start": 57
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kartoni in nadzor",
+      "paragraphs": [
+        {
+          "context": "Trenerske kartone na ime ekipa in trenerja se izdaja v elektronski obliki za vse kategorije tekmovanj v SKL. Za vodenje članske ekipe 4. moške SKL kot pogoj zadostuje urejeno članstvo in minimalni strokovni naziv Strokovni delavec 1 – športno treniranje, košarka. Kontrolo trenerskih kartonov in po potrebi tudi trenerjeve izkaznice ZKTS na tekmah SKL opravljajo tehnični komisarji oz. prvi sodniki, ki o kršitvah poročajo ustreznemu vodstvu tekmovanj SKL, ki bo kršiteljem izreklo kazni v skladu z disciplinskimi določili TP.",
+          "qas": [
+            {
+              "id": "q13",
+              "question": "Kako se izdajajo trenerski kartoni in kdo nadzira njihovo uporabo?",
+              "answers": [
+                {
+                  "text": "V elektronski obliki, nadzor opravljajo tehnični komisarji in sodniki.",
+                  "answer_start": 71
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seminarji",
+      "paragraphs": [
+        {
+          "context": "ZKTS vsako leto pripravi letni program in termine košarkarskih licenčnih seminarjev, na katerih morajo biti trenerji prisotni. Trenerju se prizna kot en opravljen licenčni seminar, če aktivno sodeluje na košarkarskem taboru KZS, je glavni trener ali pomočnik reprezentance ali opravlja usposabljanje FECC. Seminarji so pogoj za pridobitev ali obnovitev licence.",
+          "qas": [
+            {
+              "id": "q14",
+              "question": "Kaj velja za seminarje in kako jih lahko trener opravi?",
+              "answers": [
+                {
+                  "text": "Seminarji so obvezni; kot opravljen šteje tudi aktivno sodelovanje na taboru KZS, v reprezentanci ali FECC usposabljanje.",
+                  "answer_start": 64
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zgodovina pravilnika",
+      "paragraphs": [
+        {
+          "context": "Pravilnik je bil sprejet 02.09.2000 na Skupščini ZKTS, čistopis je potrdil IO ZKTS na 11. seji dne 24.04.2001, dopolnjen pa 13.09.2003, v juliju 2005, na seji IO ZKTS dne 30.06.2014, na seji IO ZKTS dne 14.3.2016 in velja do preklica. Prenovljen je bil na redni seji IO ZKTS dne 25.9.2019. Prva nadgradnja prenovljene verzije je bila potrjena na redni seji IO ZKTS 18.5.2021, nova sprememba je bila potrjena na seji IO ZKTS 16.12.2021 in stopi v veljavo s sezono 2022/2023, aktualna sprememba je bila potrjena na seji IO 19.6.2025 in stopi v veljavo za sezono 2025/2026.",
+          "qas": [
+            {
+              "id": "q15",
+              "question": "Kdaj je bil pravilnik sprejet in kdaj so bile zadnje spremembe?",
+              "answers": [
+                {
+                  "text": "Sprejet 2.9.2000, zadnja sprememba 19.6.2025, velja za sezono 2025/2026.",
+                  "answer_start": 14
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Članarina",
+      "paragraphs": [
+        {
+          "context": "Za pridobitev licence v sezoni 2025/2026 mora biti izpolnjen POGOJ ŠT. 1: Urejena članarina. Podatke za plačilo dobite v aplikaciji MOJPROFIL.",
+          "qas": [
+            {
+              "id": "q16",
+              "question": "Kje trener dobi podatke za plačilo članarine in zakaj je članarina pogoj?",
+              "answers": [
+                {
+                  "text": "Podatke dobi v aplikaciji MOJPROFIL; članarina je pogoj za pridobitev licence.",
+                  "answer_start": 66
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Usposobljenost po kategorijah",
+      "paragraphs": [
+        {
+          "context": "POGOJ ŠT. 2: Ustrezna usposobljenost. U10, U12: SD1 ali univerzitetni študij s predmetom Košarka 1. U14: SD1. U16, U18, U20, 3. SKL: SD2. 2. SKL, 1. SKL moški in ženske: Trener A kategorije.",
+          "qas": [
+            {
+              "id": "q17",
+              "question": "Kakšna usposobljenost je zahtevana za trenerje različnih starostnih kategorij v sezoni 2025/2026?",
+              "answers": [
+                {
+                  "text": "U10, U12: SD1 ali univerzitetni študij s predmetom Košarka 1; U14: SD1; U16, U18, U20, 3. SKL: SD2; 2. SKL, 1. SKL moški in ženske: Trener A kategorije",
+                  "answer_start": 38
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Klinike",
+      "paragraphs": [
+        {
+          "context": "POGOJ ŠT. 3: Udeležba na za kategorijo ustreznih klinikah. Člani 1. 2. 3 SKL, Članice 1. SKL, U20: Članska klinika. Vodje mlajših: 3 klinike (članska, vodje mlajših, U18/U16). Vodje U14 mlajših: 4 klinike. U18 in U16: 1 klinika (lahko nadomeščeno s člansko). U14: 1 klinika. U12: 1 klinika. U10: 1 klinika.",
+          "qas": [
+            {
+              "id": "q18",
+              "question": "Koliko in katere klinike mora opraviti trener glede na kategorijo?",
+              "answers": [
+                {
+                  "text": "Člani/U20: članska klinika; vodje mlajših: 3 klinike; vodje U14 mlajših: 4 klinike; U18/U16: 1 klinika; U14: 1 klinika; U12: 1 klinika; U10: 1 klinika",
+                  "answer_start": 66
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kreditne točke novo",
+      "paragraphs": [
+        {
+          "context": "POGOJ ŠT. 4: Kreditne točke. Za pridobitev kreditnih točke morate opraviti ustrezne aktivnosti. Sistem vas bo ob zahtevku za karton sam opozoril na pomanjkanje kreditnih točk in posledice tega. Če nimate dovolj KT lahko pridobite administrative točke, za katere zaprosite ob oddaji aktivnosti.",
+          "qas": [
+            {
+              "id": "q19",
+              "question": "Kako trener pridobi kreditne točke in kaj če jih nima dovolj?",
+              "answers": [
+                {
+                  "text": "Z opravljenimi aktivnostmi; če jih nima dovolj, lahko zaprosi za administrative točke ob oddaji aktivnosti.",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpis v razvid",
+      "paragraphs": [
+        {
+          "context": "Poleg naštetega morate imeti urejen vpis v razvid (zahteva države), ki se opravi enkrat in ga ni potrebno urejati vsako leto, razen če ste vmes pridobili višjo usposobljenost. Več na povezavi: VPIS V RAZVID ŠPORTNIH DELAVCEV.",
+          "qas": [
+            {
+              "id": "q20",
+              "question": "Kaj je vpis v razvid in kdaj ga je treba urediti?",
+              "answers": [
+                {
+                  "text": "To je državni vpis strokovnih delavcev; urediti ga je treba enkrat, razen ob višji usposobljenosti.",
+                  "answer_start": 38
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SLOADO certifikat",
+      "paragraphs": [
+        {
+          "context": "SLOADO certifikat (zahteva države) je potrebno obnavljati vsaki 2 leti.",
+          "qas": [
+            {
+              "id": "q21",
+              "question": "Kako pogosto je treba obnavljati SLOADO certifikat?",
+              "answers": [
+                {
+                  "text": "Vsaki 2 leti.",
+                  "answer_start": 55
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Obnovitveni tečaj",
+      "paragraphs": [
+        {
+          "context": "Obnovitveni tečaj za trenerje vrhunskih športnikov je na voljo za tiste, ki so uspešno zaključili izobraževalni program in jim bo potekel certifikat. Namenjen je osvežitvi znanja in spremembam protidopinških pravil. Trenutno je na voljo v angleščini, slovenski prevod je v pripravi.",
+          "qas": [
+            {
+              "id": "q22",
+              "question": "Kdo mora opraviti obnovitveni tečaj za trenerje in kaj je njegov namen?",
+              "answers": [
+                {
+                  "text": "Tisti, ki jim poteče certifikat; namen je osvežitev znanja in protidopinška pravila.",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Licenca na ekipo",
+      "paragraphs": [
+        {
+          "context": "Licence (trenerski kartoni) se od sezone 2024/2025 dalje vežejo na ekipo. Trener lahko izjemoma vodi drugo ekipo v isti starostni kategoriji, če o tem obvesti vodjo tekmovanja in pisarno ZKTS. Klub plača le eno licenčno takso na starostno kategorijo.",
+          "qas": [
+            {
+              "id": "q23",
+              "question": "Kako se licenca veže na ekipo in koliko taks plača klub?",
+              "answers": [
+                {
+                  "text": "Licenca je vezana na ekipo, klub plača eno takso na kategorijo, izjemoma lahko trener vodi več ekip v isti kategoriji ob predhodnem obvestilu.",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kalkulator plačil",
+      "paragraphs": [
+        {
+          "context": "ZKTS želi s Kalkulatorjem plačil predlagati minimalne standarde za plačila strokovnih delavcev v klubih. (https://www.kosarkarski-trenerji.com/kalkulator)",
+          "qas": [
+            {
+              "id": "q24",
+              "question": "Kaj je namen Kalkulatorja plačil?",
+              "answers": [
+                {
+                  "text": "Predlagati minimalne standarde za plačila strokovnih delavcev v klubih.",
+                  "answer_start": 49
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mojprofil",
+      "paragraphs": [
+        {
+          "context": "V aplikaciji Mojprofil lahko trener najde ponudbe za službo, naroči novo člansko izkaznico v primeru izgube ali polne izkaznice.",
+          "qas": [
+            {
+              "id": "q25",
+              "question": "Kaj lahko trener uredi v aplikaciji Mojprofil?",
+              "answers": [
+                {
+                  "text": "Najde ponudbe za službo, naroči novo izkaznico.",
+                  "answer_start": 58
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zakonski pogoji",
+      "paragraphs": [
+        {
+          "context": "Skladno z Zakonom o športu (ZŠPo-1) je potrebno oddati vlogo za vpis v razvid strokovnih delavcev v športu. Strokovno delo v športu lahko opravlja le tisti, ki ima ustrezno izobrazbo ali usposobljenost in je vpisan v razvid strokovno izobraženih in strokovno usposobljenih delavcev v športu.",
+          "qas": [
+            {
+              "id": "q26",
+              "question": "Kakšni so pogoji za opravljanje strokovnega dela v športu po ZŠPo-1?",
+              "answers": [
+                {
+                  "text": "Ustrezna izobrazba ali usposobljenost in vpis v razvid strokovnih delavcev.",
+                  "answer_start": 125
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oddaja vloge v razvid",
+      "paragraphs": [
+        {
+          "context": "Vsi, ki ste si pridobili usposobljenost/izobrazbo, morate oddati vlogo za vpis v razvid sami. KZS tega ne more storiti v vašem imenu.",
+          "qas": [
+            {
+              "id": "q27",
+              "question": "Kdo mora oddati vlogo za vpis v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Vsak posameznik sam.",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Priznavanje usposobljenosti",
+      "paragraphs": [
+        {
+          "context": "Vsi usposobljeni se delite v dve skupini. Prva skupina: Trenerji z diplomami 1. stopnje, brez definirane stopnje pred 2004, 2. stopnje in 1. razreda, 2. stopnje ali brez definirane stopnje pred 2004. Pred oddajo vloge za vpis v razvid morate izpolniti in oddati obrazec za priznanje strokovne usposobljenosti na področju športa na usposabljanja@kosarkarski-trenerji.com. KZS vam nato izda novo diplomo z novim nazivom.",
+          "qas": [
+            {
+              "id": "q28",
+              "question": "Kaj mora storiti trener s staro diplomo pred oddajo vloge za vpis v razvid?",
+              "answers": [
+                {
+                  "text": "Izpolniti obrazec za priznanje strokovne usposobljenosti in ga poslati na usposabljanja@kosarkarski-trenerji.com, nato prejme novo diplomo.",
+                  "answer_start": 227
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oddaja razvid",
+      "paragraphs": [
+        {
+          "context": "Ko prejmete novo diplomo z nazivom Strokovni delavec 1 ali 2, izpolnite vlogo na http://evem.gov.si/info/dovoljenja/poklic/13191/dovoljenje/13104/prikaziDovoljenje/. Priložite novo diplomo in vse skupaj pošljete na gp.mizs@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, 1000 Ljubljana.",
+          "qas": [
+            {
+              "id": "q29",
+              "question": "Kam in kako pošljete vlogo za vpis v razvid in novo diplomo?",
+              "answers": [
+                {
+                  "text": "Na gp.mizs@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, 1000 Ljubljana.",
+                  "answer_start": 186
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Razvid 2. in 3. stopnja",
+      "paragraphs": [
+        {
+          "context": "Druga skupina: Trenerji z diplomami 2. stopnje (Trener košarke mladih, 2. stopnja) in 3. stopnje (Trener košarke 1. razreda, 3. stopnja) ne potrebujejo priznanja nove usposobljenosti. Izpolnijo vlogo na http://evem.gov.si/info/dovoljenja/poklic/13191/dovoljenje/13104/prikaziDovoljenje/, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport.",
+          "qas": [
+            {
+              "id": "q30",
+              "question": "Kaj je postopek za trenerje z diplomami 2. ali 3. stopnje?",
+              "answers": [
+                {
+                  "text": "Neposredno izpolnijo vlogo, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali ministrstvo.",
+                  "answer_start": 166
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kopija odločbe",
+      "paragraphs": [
+        {
+          "context": "Ko prejmete odločbo o vpisu v razvid, pošljite kopijo odločbe na usposabljanja@kosarkarski-trenerji.com.",
+          "qas": [
+            {
+              "id": "q31",
+              "question": "Kaj storite, ko prejmete odločbo o vpisu v razvid?",
+              "answers": [
+                {
+                  "text": "Kopijo odločbe pošljete na usposabljanja@kosarkarski-trenerji.com.",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Financiranje",
+      "paragraphs": [
+        {
+          "context": "Vse vrste financiranja in zaposlitve strokovnih delavcev preko nacionalnih ali lokalnih virov bodo možne izključno za osebe, ki bodo v register vpisane.",
+          "qas": [
+            {
+              "id": "q32",
+              "question": "Zakaj je pomemben vpis v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Ker je financiranje in zaposlitev možna le za osebe, vpisane v register.",
+                  "answer_start": 81
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nadomeščanje klinik",
+      "paragraphs": [
+        {
+          "context": "Ali lahko kliniko nadomeščam z drugo? U18 in U16 s člansko. U14 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U12 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U10 in mlajši z U14 in U12 (torej oba dneva). Ostalih se ne da nadomeščati!",
+          "qas": [
+            {
+              "id": "q33",
+              "question": "Ali lahko nadomeščam klinično usposabljanje z drugo kliniko?",
+              "answers": [
+                {
+                  "text": "Možno je le v določenih primerih, npr. U18/U16 s člansko, U14/U12/U10 z določenimi drugimi klinikami in ob opravičljivem razlogu z dokazilom. Ostalih ni mogoče nadomeščati.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prekrivanje klinika/usposabljanje",
+      "paragraphs": [
+        {
+          "context": "V času klinike imam usposabljanje za naziv SD1 oz. SD2. Prijavite se na seminar(kliniko) in v opombe vpišite, da imate istočasno usposabljanje za naziv. Odsotnost s seminarja je opravičena, v kolikor imate urejeno prisotnost na usposabljanju. Plačilo ni potrebno.",
+          "qas": [
+            {
+              "id": "q34",
+              "question": "Kaj naredim, če imam istočasno kliniko in usposabljanje za naziv SD1 ali SD2?",
+              "answers": [
+                {
+                  "text": "Prijavite se na seminar, v opombe napišete razlog, odsotnost je opravičena če ste na usposabljanju, plačilo ni potrebno.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Članstvo in klinika",
+      "paragraphs": [
+        {
+          "context": "Nisem še član ZKTS, ne morem se prijaviti na kliniko. Nemudoma se včlanite v aplikaciji MOJPROFIL.",
+          "qas": [
+            {
+              "id": "q35",
+              "question": "Kaj storim, če nisem član ZKTS in se želim prijaviti na kliniko?",
+              "answers": [
+                {
+                  "text": "Nemudoma se včlanite v aplikaciji MOJPROFIL.",
+                  "answer_start": 75
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Začasno vodenje brez usposobljenosti",
+      "paragraphs": [
+        {
+          "context": "Imamo trenerja, ki nima še usposobljenosti, opravljal pa bo usposabljanje za SD1 - Trener košarke 1, ki začne konec avgusta, ali bo lahko vodil tekme? Nihče, ki nima vsaj minimalne usposobljenosti licence ne more pridobiti. Izjemoma, bodo kandidati, ki so prijavljeni in ki se bodo trudili zaključiti usposabljanje Trener košarke 1, v najkrajšem možnem času, začasno lahko vodili tekme ne da bi bili kaznovani s strani komisarja, pod pogojem, da bo podana pisna prošnja s strani kluba na predpisanem obrazcu. Klub in kandidat pa nosita vso odgovornost in posledice, saj sta oba v prekršku.",
+          "qas": [
+            {
+              "id": "q36",
+              "question": "Ali lahko kandidat brez usposobljenosti vodi tekme?",
+              "answers": [
+                {
+                  "text": "Načeloma ne, izjemoma začasno ob pisni prošnji kluba in če je kandidat v postopku usposabljanja. Klub in kandidat nosita odgovornost.",
+                  "answer_start": 144
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kreditne točke za SD1",
+      "paragraphs": [
+        {
+          "context": "Na diplomi SD1 imam letnico 2020, 2021, 2022. Trenerji, ki imajo izdano diplomo SD1 2020, 2021, 2022 morajo z aktivnostmi prva tri leta zbrati 200 kreditnih točk / leto. Priporoča se udeležba na čim več seminarjih, regijskih treningih itd ...",
+          "qas": [
+            {
+              "id": "q37",
+              "question": "Koliko kreditnih točk mora trener SD1 z letnico 2020, 2021 ali 2022 zbrati v prvih treh letih?",
+              "answers": [
+                {
+                  "text": "200 kreditnih točk na leto prva tri leta.",
+                  "answer_start": 106
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potrdilo o članarini",
+      "paragraphs": [
+        {
+          "context": "Ali lahko plačam članarino in ne naložim potrdila oz. ga pošljem po e-pošti? Ne, potrdilo o plačani članarini je obvezno potrebno naložiti v aplikacijo Mojprofil.",
+          "qas": [
+            {
+              "id": "q38",
+              "question": "Ali moram potrdilo o plačani članarini naložiti v Mojprofil?",
+              "answers": [
+                {
+                  "text": "Da, potrdilo je obvezno potrebno naložiti v aplikacijo Mojprofil.",
+                  "answer_start": 108
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Uporaba Mojprofil",
+      "paragraphs": [
+        {
+          "context": "Aplikacija Moj profil: Ne uporabljamo Internet Explorerja, ker je zelo zastarel. Dokumente ne nalagamo iz Safarija na Iphonu. Če nam ne prime QR koda za članarino (Delavska hranilnica), prepišemo podatke za plačilo. Naložil sem potrdilo, pa še ni potrjeno? Bo potrjeno ali zavrnjeno takoj, ko bo to možno.",
+          "qas": [
+            {
+              "id": "q39",
+              "question": "Na kaj moram biti pozoren pri uporabi aplikacije Moj profil?",
+              "answers": [
+                {
+                  "text": "Ne uporabljajte Internet Explorerja, ne nalagajte dokumentov iz Safarija na Iphonu, če QR koda ne deluje, prepišite podatke, potrdila bodo potrjena ali zavrnjena čim prej.",
+                  "answer_start": 24
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izostanek s klinike",
+      "paragraphs": [
+        {
+          "context": "Imam priročen izgovor, da me ne bo na kliniko ali seminar za mlajše? Preberemo pravilnik o seminarjih in opravičljivih možnostih za izostanek. V vsakem primeru pa moram biti na kliniko prijavljen in imeti urejene vse obveznosti.",
+          "qas": [
+            {
+              "id": "q40",
+              "question": "Ali lahko izostanem s klinike ali seminarja zaradi osebnih razlogov?",
+              "answers": [
+                {
+                  "text": "Možno le po pravilniku in z opravičljivim razlogom, sicer morate biti prijavljeni in imeti urejene obveznosti.",
+                  "answer_start": 109
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kaj so kreditne točke",
+      "paragraphs": [
+        {
+          "context": "Kreditne točke? Kaj je to? Namesto aktivnosti, ki ste jo morali imeti do sedaj, imate sedaj na voljo kreditne točke. Da dobite kreditne točke morate opraviti ustrezne aktivnosti, nikakor ne bomo priznavali točk za aktivnosti v prihodnosti. Sistem vas bo ob zahtevku za karton sam opozoril na pomanjkanje kreditnih točk in posledice. V kolikor v danem trenutku nimate dovolj KT lahko pridobite Administrative točke, za katere zaprosite s spodnjo IZJAVO o naknadni pridobitvi. Te točke se vam po sezoni nato odštejejo.",
+          "qas": [
+            {
+              "id": "q41",
+              "question": "Kaj so kreditne točke in kako jih pridobim?",
+              "answers": [
+                {
+                  "text": "Kreditne točke pridobite z opravljenimi aktivnostmi, ni priznanja za prihodnje aktivnosti. Če jih nimate dovolj, lahko zaprosite za administrativne točke, ki se kasneje odštejejo.",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kdaj oddati zahtevek za karton",
+      "paragraphs": [
+        {
+          "context": "Kdaj lahko oddam zahtevek za karton? Zahtevek za karton lahko oddate, ko imate izpolnjene vse pogoje za licenco (usposobljenost, članarino, kliniko, kreditne točke, SLOADO, razvid). Predvidoma v mesecu septembru.",
+          "qas": [
+            {
+              "id": "q42",
+              "question": "Kdaj lahko oddam zahtevek za trenerski karton?",
+              "answers": [
+                {
+                  "text": "Ko so izpolnjeni vsi pogoji za licenco; običajno v septembru.",
+                  "answer_start": 98
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Licenca za vodje mlajših",
+      "paragraphs": [
+        {
+          "context": "Sem vodja mlajših oz. vodja U14 in mlajših, kako oddam zahtevek za licenco. Vodje mlajših imate v profilu (levo v meniju) gumb Vodje mlajših. Izpolnite vse in pravilno, drugače vam bomo morali obrazec dati v dopolnitev.",
+          "qas": [
+            {
+              "id": "q43",
+              "question": "Kako oddam zahtevek za licenco kot vodja mlajših?",
+              "answers": [
+                {
+                  "text": "V profilu izberete gumb Vodje mlajših in izpolnite obrazec pravilno.",
+                  "answer_start": 84
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nekvalificiran kandidat",
+      "paragraphs": [
+        {
+          "context": "V klubu imamo enega mladega fanta, ki nima še nič ali lahko vodi tekme, dobi licenco? NE",
+          "qas": [
+            {
+              "id": "q44",
+              "question": "Ali lahko nekvalificiran kandidat vodi tekme?",
+              "answers": [
+                {
+                  "text": "Ne, brez usposobljenosti ni možno voditi tekem ali pridobiti licence.",
+                  "answer_start": 98
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izkušen trener",
+      "paragraphs": [
+        {
+          "context": "Sem izkušen trener! (Velja za U14 in navzdol) V kolikor imate ta status odobren preverite v svojem profilu, desno zgoraj, pod PROFIL. Če ga imate boste zasledil napis IZKUŠEN TRENER, ta status vam ostaja priznan in ga ni potrebno obnavljati. V kolikor ga nimate zapisanega in ste že oddali vlogo nam pišite. Vsaki dve leti morate opraviti en seminar katerikoli. Kreditnih točk vam ni potrebno zbirati za kategorije 3. SKL, U20, U18, U16 in nižje.",
+          "qas": [
+            {
+              "id": "q45",
+              "question": "Kakšne so obveznosti izkušenega trenerja za U14 in mlajše?",
+              "answers": [
+                {
+                  "text": "Status izkušenega trenerja je trajen, vsaki dve leti je potreben seminar, kreditnih točk ni treba zbirati za nižje kategorije.",
+                  "answer_start": 153
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Razvid - informacije",
+      "paragraphs": [
+        {
+          "context": "Vpisati se moram v nek razvid? Ministrstvo? Nekaj takega? https://www.kosarkarski-trenerji.com/usposabljanja/ostalo/vpis-v-razvid",
+          "qas": [
+            {
+              "id": "q46",
+              "question": "Kje najdem informacije o vpisu v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Na spletni strani kosarkarski-trenerji.com/usposabljanja/ostalo/vpis-v-razvid",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt za usposabljanja",
+      "paragraphs": [
+        {
+          "context": "Imam vprašanje glede usposabljanj, diplome? usposabljanja@kosarkarski-trenerji.com",
+          "qas": [
+            {
+              "id": "q47",
+              "question": "Kam se obrnem za vprašanja glede usposabljanj in diplom?",
+              "answers": [
+                {
+                  "text": "usposabljanja@kosarkarski-trenerji.com",
+                  "answer_start": 51
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt finance",
+      "paragraphs": [
+        {
+          "context": "Nekaj me zanima glede financ, nismo prejeli računa, zanima me IOP...? tone@kosarkarski-trenerji.com",
+          "qas": [
+            {
+              "id": "q48",
+              "question": "Kje dobim informacije o financah, računih in IOP?",
+              "answers": [
+                {
+                  "text": "tone@kosarkarski-trenerji.com",
+                  "answer_start": 77
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt regijsko",
+      "paragraphs": [
+        {
+          "context": "Bil sem na regijskih pa nimam vpisanih kreditnih točk? Zanima me nekaj glede regijskega. regijskok@kzs.si",
+          "qas": [
+            {
+              "id": "q49",
+              "question": "Kam pišem, če imam vprašanja glede regijskih aktivnosti in kreditnih točk?",
+              "answers": [
+                {
+                  "text": "regijsko@kzs.si",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt komisarji",
+      "paragraphs": [
+        {
+          "context": "Imam vprašanja, kot so: do kdaj je prestopni rok? Ali lahko prestavim tekmo ... nismo pravi naslov za to, obrnite se na komisarje na KZS.",
+          "qas": [
+            {
+              "id": "q50",
+              "question": "Kje dobim informacije o prestopnem roku ali prestavitvi tekem?",
+              "answers": [
+                {
+                  "text": "Obrni se na komisarje na KZS.",
+                  "answer_start": 116
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Termini klinike",
+      "paragraphs": [
+        {
+          "context": "Kdaj so letos klinike? Članska: 23. in 24. avgust 2025. U18 in U16: 30. in 31. avgust 2025. U14: 7. september 2025. U12: 6. september 2025. U10: 8. november 2025.",
+          "qas": [
+            {
+              "id": "q51",
+              "question": "Kdaj so letos posamezne klinike?",
+              "answers": [
+                {
+                  "text": "Članska: 23./24.8.2025; U18/U16: 30.8./31.8.2025; U14: 7.9.2025; U12: 6.9.2025; U10: 8.11.2025",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Termini usposabljanja",
+      "paragraphs": [
+        {
+          "context": "Kdaj so usposabljanja? SD1 bo predvidoma konec avgusta. Razpis pa najkasneje junija. SD2 že poteka in se ni več možno prijaviti.",
+          "qas": [
+            {
+              "id": "q52",
+              "question": "Kdaj potekajo usposabljanja SD1 in SD2?",
+              "answers": [
+                {
+                  "text": "SD1 konec avgusta, SD2 že poteka.",
+                  "answer_start": 28
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pogoji za SD1",
+      "paragraphs": [
+        {
+          "context": "Imamo fanta, ki nima še srednješolskega spričevala oz. nima 18 let, ga lahko prijavimo na SD1? Žal ne, zakon tega ne dopušča!",
+          "qas": [
+            {
+              "id": "q53",
+              "question": "Ali lahko na SD1 prijavimo kandidata brez srednje šole ali mlajšega od 18 let?",
+              "answers": [
+                {
+                  "text": "Ne, zakon tega ne dopušča.",
+                  "answer_start": 105
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nadomeščanje klinik – dodatna pojasnila",
+      "paragraphs": [
+        {
+          "context": "Ali lahko kliniko nadomeščam z drugo? U18 in U16 s člansko. U14 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U12 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U10 in mlajši z U14 in U12 (torej oba dneva). Ostalih se ne da nadomeščati!",
+          "qas": [
+            {
+              "id": "q54",
+              "question": "Kdaj je nadomeščanje klinik možno in za katere kategorije?",
+              "answers": [
+                {
+                  "text": "Možno je v določenih primerih, npr. U18/U16 s člansko, U14/U12/U10 z določenimi drugimi klinikami in ob opravičljivem razlogu z dokazilom.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Klub in kandidat brez usposobljenosti",
+      "paragraphs": [
+        {
+          "context": "Imamo trenerja, ki nima še usposobljenosti, opravljal pa bo usposabljanje za SD1 - Trener košarke 1, ki začne konec avgusta, ali bo lahko vodil tekme? Nihče, ki nima vsaj minimalne usposobljenosti licence ne more pridobiti. Izjemoma, bodo kandidati, ki so prijavljeni in ki se bodo trudili zaključiti usposabljanje Trener košarke 1, v najkrajšem možnem času, začasno lahko vodili tekme ne da bi bili kaznovani s strani komisarja, pod pogojem, da bo podana pisna prošnja s strani kluba na predpisanem obrazcu. Klub in kandidat pa nosita vso odgovornost in posledice, saj sta oba v prekršku.",
+          "qas": [
+            {
+              "id": "q55",
+              "question": "Kakšna je odgovornost kluba in kandidata brez usposobljenosti, če vodita tekme?",
+              "answers": [
+                {
+                  "text": "Klub in kandidat nosita vso odgovornost in posledice, saj sta oba v prekršku.",
+                  "answer_start": 367
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prijava na SD1 – pogoji",
+      "paragraphs": [
+        {
+          "context": "Imamo fanta, ki nima še srednješolskega spričevala oz. nima 18 let, ga lahko prijavimo na SD1? Žal ne, zakon tega ne dopušča!",
+          "qas": [
+            {
+              "id": "q56",
+              "question": "Kdo ne more biti prijavljen na SD1?",
+              "answers": [
+                {
+                  "text": "Kandidati brez srednješolskega spričevala ali mlajši od 18 let.",
+                  "answer_start": 9
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seminarji za izkušene trenerje",
+      "paragraphs": [
+        {
+          "context": "Sem izkušen trener! (Velja za U14 in navzdol) V kolikor imate ta status odobren preverite v svojem profilu, desno zgoraj, pod PROFIL. Če ga imate boste zasledil napis IZKUŠEN TRENER, ta status vam ostaja priznan in ga ni potrebno obnavljati. V kolikor ga nimate zapisanega in ste že oddali vlogo nam pišite. Vsaki dve leti morate opraviti en seminar katerikoli. Kreditnih točk vam ni potrebno zbirati za kategorije 3. SKL, U20, U18, U16 in nižje.",
+          "qas": [
+            {
+              "id": "q57",
+              "question": "Kako pogosto mora izkušen trener na seminar in za katere kategorije ni treba zbirati kreditnih točk?",
+              "answers": [
+                {
+                  "text": "Vsaki dve leti mora opraviti seminar, kreditnih točk ni treba zbirati za 3. SKL, U20, U18, U16 in nižje.",
+                  "answer_start": 153
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpis v razvid – postopek",
+      "paragraphs": [
+        {
+          "context": "Vsi usposobljeni se delite v dve skupini. Prva skupina: Trenerji z diplomami 1. stopnje, brez definirane stopnje pred 2004, 2. stopnje in 1. razreda, 2. stopnje ali brez definirane stopnje pred 2004. Pred oddajo vloge za vpis v razvid morate izpolniti in oddati obrazec za priznanje strokovne usposobljenosti na področju športa na usposabljanja@kosarkarski-trenerji.com. KZS vam nato izda novo diplomo z novim nazivom.",
+          "qas": [
+            {
+              "id": "q58",
+              "question": "Kaj je prvi korak za trenerje s staro diplomo pred vpisom v razvid?",
+              "answers": [
+                {
+                  "text": "Izpolniti in oddati obrazec za priznanje strokovne usposobljenosti na usposabljanja@kosarkarski-trenerji.com.",
+                  "answer_start": 202
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpis v razvid – druga skupina",
+      "paragraphs": [
+        {
+          "context": "Druga skupina: Trenerji z diplomami 2. stopnje (Trener košarke mladih, 2. stopnja) in 3. stopnje (Trener košarke 1. razreda, 3. stopnja) ne potrebujejo priznanja nove usposobljenosti. Izpolnijo vlogo na http://evem.gov.si/info/dovoljenja/poklic/13191/dovoljenje/13104/prikaziDovoljenje/, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport.",
+          "qas": [
+            {
+              "id": "q59",
+              "question": "Kaj storijo trenerji z diplomami 2. ali 3. stopnje za vpis v razvid?",
+              "answers": [
+                {
+                  "text": "Izpolnijo vlogo, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali ministrstvo.",
+                  "answer_start": 166
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oddaja odločbe o vpisu",
+      "paragraphs": [
+        {
+          "context": "Ko prejmete odločbo o vpisu v razvid, pošljite kopijo odločbe na usposabljanja@kosarkarski-trenerji.com.",
+          "qas": [
+            {
+              "id": "q60",
+              "question": "Kam pošljete kopijo odločbe o vpisu v razvid?",
+              "answers": [
+                {
+                  "text": "Na usposabljanja@kosarkarski-trenerji.com.",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pomembnost vpisa v razvid",
+      "paragraphs": [
+        {
+          "context": "Vse vrste financiranja in zaposlitve strokovnih delavcev preko nacionalnih ali lokalnih virov bodo možne izključno za osebe, ki bodo v register vpisane.",
+          "qas": [
+            {
+              "id": "q61",
+              "question": "Zakaj je pomemben vpis v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Ker je financiranje in zaposlitev možna le za osebe, vpisane v register.",
+                  "answer_start": 81
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nadomeščanje klinik (FAQ dopolnilo)",
+      "paragraphs": [
+        {
+          "context": "Ali lahko kliniko nadomeščam z drugo? U18 in U16 s člansko. U14 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U12 z U10 in mlajši, izjemoma z U18 in U16 ali člansko (opravičljiv razlog in dokazilo). U10 in mlajši z U14 in U12 (torej oba dneva). Ostalih se ne da nadomeščati!",
+          "qas": [
+            {
+              "id": "q62",
+              "question": "Kdaj je nadomeščanje klinik izjemoma dovoljeno?",
+              "answers": [
+                {
+                  "text": "Nadomeščanje je možno za U18/U16 s člansko, U14/U12/U10 z določenimi drugimi klinikami in ob opravičljivem razlogu z dokazilom.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Odsotnost s seminarja zaradi usposabljanja",
+      "paragraphs": [
+        {
+          "context": "V času klinike imam usposabljanje za naziv SD1 oz. SD2. Prijavite se na seminar(kliniko) in v opombe vpišite, da imate istočasno usposabljanje za naziv. Odsotnost s seminarja je opravičena, v kolikor imate urejeno prisotnost na usposabljanju. Plačilo ni potrebno.",
+          "qas": [
+            {
+              "id": "q63",
+              "question": "Ali je odsotnost s seminarja upravičena zaradi usposabljanja za naziv?",
+              "answers": [
+                {
+                  "text": "Da, odsotnost je opravičena, če imate urejeno prisotnost na usposabljanju.",
+                  "answer_start": 108
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pogoji za SD1 (ponovitev)",
+      "paragraphs": [
+        {
+          "context": "Imamo fanta, ki nima še srednješolskega spričevala oz. nima 18 let, ga lahko prijavimo na SD1? Žal ne, zakon tega ne dopušča!",
+          "qas": [
+            {
+              "id": "q64",
+              "question": "Ali lahko na SD1 prijavimo kandidata brez srednje šole ali mlajšega od 18 let?",
+              "answers": [
+                {
+                  "text": "Ne, zakon tega ne dopušča.",
+                  "answer_start": 105
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kaj ureja Mojprofil",
+      "paragraphs": [
+        {
+          "context": "V aplikaciji Mojprofil lahko trener najde ponudbe za službo, naroči novo člansko izkaznico v primeru izgube ali polne izkaznice.",
+          "qas": [
+            {
+              "id": "q65",
+              "question": "Kaj omogoča aplikacija Mojprofil trenerjem?",
+              "answers": [
+                {
+                  "text": "Najde ponudbe za službo, naroči novo izkaznico.",
+                  "answer_start": 58
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Uporaba Mojprofil – tehnične podrobnosti",
+      "paragraphs": [
+        {
+          "context": "Aplikacija Moj profil: Ne uporabljamo Internet Explorerja, ker je zelo zastarel. Dokumente ne nalagamo iz Safarija na Iphonu. Če nam ne prime QR koda za članarino (Delavska hranilnica), prepišemo podatke za plačilo. Naložil sem potrdilo, pa še ni potrjeno? Bo potrjeno ali zavrnjeno takoj, ko bo to možno.",
+          "qas": [
+            {
+              "id": "q66",
+              "question": "Na kaj moram biti pozoren pri uporabi aplikacije Moj profil?",
+              "answers": [
+                {
+                  "text": "Ne uporabljajte Internet Explorerja, ne nalagajte dokumentov iz Safarija na Iphonu, če QR koda ne deluje, prepišite podatke, potrdila bodo potrjena ali zavrnjena čim prej.",
+                  "answer_start": 24
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kreditne točke – administrativne",
+      "paragraphs": [
+        {
+          "context": "Kreditne točke? Kaj je to? Namesto aktivnosti, ki ste jo morali imeti do sedaj, imate sedaj na voljo kreditne točke. Da dobite kreditne točke morate opraviti ustrezne aktivnosti, nikakor ne bomo priznavali točk za aktivnosti v prihodnosti. Sistem vas bo ob zahtevku za karton sam opozoril na pomanjkanje kreditnih točk in posledice. V kolikor v danem trenutku nimate dovolj KT lahko pridobite Administrative točke, za katere zaprosite s spodnjo IZJAVO o naknadni pridobitvi. Te točke se vam po sezoni nato odštejejo.",
+          "qas": [
+            {
+              "id": "q67",
+              "question": "Kdaj lahko trener zaprosi za administrativne kreditne točke?",
+              "answers": [
+                {
+                  "text": "Če v danem trenutku nima dovolj kreditnih točk, lahko zaprosi za administrativne točke z izjavo.",
+                  "answer_start": 294
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpis v razvid – informacije",
+      "paragraphs": [
+        {
+          "context": "Vpisati se moram v nek razvid? Ministrstvo? Nekaj takega? https://www.kosarkarski-trenerji.com/usposabljanja/ostalo/vpis-v-razvid",
+          "qas": [
+            {
+              "id": "q68",
+              "question": "Kje najdem informacije o vpisu v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Na spletni strani kosarkarski-trenerji.com/usposabljanja/ostalo/vpis-v-razvid",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt – usposabljanja",
+      "paragraphs": [
+        {
+          "context": "Imam vprašanje glede usposabljanj, diplome? usposabljanja@kosarkarski-trenerji.com",
+          "qas": [
+            {
+              "id": "q69",
+              "question": "Kam se obrnem za vprašanja glede usposabljanj in diplom?",
+              "answers": [
+                {
+                  "text": "usposabljanja@kosarkarski-trenerji.com",
+                  "answer_start": 51
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt – finance",
+      "paragraphs": [
+        {
+          "context": "Nekaj me zanima glede financ, nismo prejeli računa, zanima me IOP...? tone@kosarkarski-trenerji.com",
+          "qas": [
+            {
+              "id": "q70",
+              "question": "Kje dobim informacije o financah, računih in IOP?",
+              "answers": [
+                {
+                  "text": "tone@kosarkarski-trenerji.com",
+                  "answer_start": 77
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt – regijske aktivnosti",
+      "paragraphs": [
+        {
+          "context": "Bil sem na regijskih pa nimam vpisanih kreditnih točk? Zanima me nekaj glede regijskega. regijskok@kzs.si",
+          "qas": [
+            {
+              "id": "q71",
+              "question": "Kam pišem, če imam vprašanja glede regijskih aktivnosti in kreditnih točk?",
+              "answers": [
+                {
+                  "text": "regijsko@kzs.si",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontakt – komisarji",
+      "paragraphs": [
+        {
+          "context": "Imam vprašanja, kot so: do kdaj je prestopni rok? Ali lahko prestavim tekmo ... nismo pravi naslov za to, obrnite se na komisarje na KZS.",
+          "qas": [
+            {
+              "id": "q72",
+              "question": "Kje dobim informacije o prestopnem roku ali prestavitvi tekem?",
+              "answers": [
+                {
+                  "text": "Obrni se na komisarje na KZS.",
+                  "answer_start": 116
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Termini klinik",
+      "paragraphs": [
+        {
+          "context": "Kdaj so letos klinike? Članska: 23. in 24. avgust 2023. U18 in U16: 30. avgust in 31. avgust 2025. U14: 7. september 2025. U12: 6. september 2025. U10: 8. november 2025.",
+          "qas": [
+            {
+              "id": "q73",
+              "question": "Kdaj so letos posamezne klinike?",
+              "answers": [
+                {
+                  "text": "Članska: 23./24.8.2023; U18/U16: 30.8./31.8.2025; U14: 7.9.2025; U12: 6.9.2025; U10: 8.11.2025",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Termini usposabljanj",
+      "paragraphs": [
+        {
+          "context": "Kdaj so usposabljanja? SD1 bo predvidoma konec avgusta. Razpis pa najkasneje junija. SD2 že poteka in se ni več možno prijaviti.",
+          "qas": [
+            {
+              "id": "q74",
+              "question": "Kdaj potekajo usposabljanja SD1 in SD2?",
+              "answers": [
+                {
+                  "text": "SD1 konec avgusta, SD2 že poteka.",
+                  "answer_start": 28
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pogoji za SD1 (ponovitev)",
+      "paragraphs": [
+        {
+          "context": "Imamo fanta, ki nima še srednješolskega spričevala oz. nima 18 let, ga lahko prijavimo na SD1? Žal ne, zakon tega ne dopušča!",
+          "qas": [
+            {
+              "id": "q75",
+              "question": "Ali lahko na SD1 prijavimo kandidata brez srednje šole ali mlajšega od 18 let?",
+              "answers": [
+                {
+                  "text": "Ne, zakon tega ne dopušča.",
+                  "answer_start": 105
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kreditne točke SD1 – posebnosti",
+      "paragraphs": [
+        {
+          "context": "Na diplomi SD1 imam letnico 2020, 2021, 2022. Trenerji, ki imajo izdano diplomo SD1 2020, 2021, 2022 morajo z aktivnostmi prva tri leta zbrati 200 kreditnih točk / leto. Priporoča se udeležba na čim več seminarjih, regijskih treningih itd ...",
+          "qas": [
+            {
+              "id": "q76",
+              "question": "Koliko kreditnih točk mora trener SD1 z letnico 2020, 2021 ali 2022 zbrati v prvih treh letih?",
+              "answers": [
+                {
+                  "text": "200 kreditnih točk na leto prva tri leta.",
+                  "answer_start": 106
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prijava na kliniko – članstvo",
+      "paragraphs": [
+        {
+          "context": "Nisem še član ZKTS, ne morem se prijaviti na kliniko. Nemudoma se včlanite v aplikaciji MOJPROFIL.",
+          "qas": [
+            {
+              "id": "q77",
+              "question": "Kaj storim, če nisem član ZKTS in se želim prijaviti na kliniko?",
+              "answers": [
+                {
+                  "text": "Nemudoma se včlanite v aplikaciji MOJPROFIL.",
+                  "answer_start": 75
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potrdilo o članarini – naložitev",
+      "paragraphs": [
+        {
+          "context": "Ali lahko plačam članarino in ne naložim potrdila oz. ga pošljem po e-pošti? Ne, potrdilo o plačani članarini je obvezno potrebno naložiti v aplikacijo Mojprofil.",
+          "qas": [
+            {
+              "id": "q78",
+              "question": "Ali moram potrdilo o plačani članarini naložiti v Mojprofil?",
+              "answers": [
+                {
+                  "text": "Da, potrdilo je obvezno potrebno naložiti v aplikacijo Mojprofil.",
+                  "answer_start": 108
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izostanek s klinike ali seminarja",
+      "paragraphs": [
+        {
+          "context": "Imam priročen izgovor, da me ne bo na kliniko ali seminar za mlajše? Preberemo pravilnik o seminarjih in opravičljivih možnostih za izostanek. V vsakem primeru pa moram biti na kliniko prijavljen in imeti urejene vse obveznosti.",
+          "qas": [
+            {
+              "id": "q79",
+              "question": "Ali lahko izostanem s klinike ali seminarja zaradi osebnih razlogov?",
+              "answers": [
+                {
+                  "text": "Možno le po pravilniku in z opravičljivim razlogom, sicer morate biti prijavljeni in imeti urejene obveznosti.",
+                  "answer_start": 109
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oddaja zahtevka za karton",
+      "paragraphs": [
+        {
+          "context": "Kdaj lahko oddam zahtevek za karton? Zahtevek za karton lahko oddate, ko imate izpolnjene vse pogoje za licenco (usposobljenost, članarino, kliniko, kreditne točke, SLOADO, razvid). Predvidoma v mesecu septembru.",
+          "qas": [
+            {
+              "id": "q80",
+              "question": "Kdaj lahko oddam zahtevek za trenerski karton?",
+              "answers": [
+                {
+                  "text": "Ko so izpolnjeni vsi pogoji za licenco; običajno v septembru.",
+                  "answer_start": 98
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Licenca za vodje mlajših – oddaja zahtevka",
+      "paragraphs": [
+        {
+          "context": "Sem vodja mlajših oz. vodja U14 in mlajših, kako oddam zahtevek za licenco. Vodje mlajših imate v profilu (levo v meniju) gumb Vodje mlajših. Izpolnite vse in pravilno, drugače vam bomo morali obrazec dati v dopolnitev.",
+          "qas": [
+            {
+              "id": "q81",
+              "question": "Kako oddam zahtevek za licenco kot vodja mlajših?",
+              "answers": [
+                {
+                  "text": "V profilu izberete gumb Vodje mlajših in izpolnite obrazec pravilno.",
+                  "answer_start": 84
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nekvalificiran kandidat – vodenje tekem",
+      "paragraphs": [
+        {
+          "context": "V klubu imamo enega mladega fanta, ki nima še nič ali lahko vodi tekme, dobi licenco? NE",
+          "qas": [
+            {
+              "id": "q82",
+              "question": "Ali lahko nekvalificiran kandidat vodi tekme?",
+              "answers": [
+                {
+                  "text": "Ne, brez usposobljenosti ni možno voditi tekem ali pridobiti licence.",
+                  "answer_start": 98
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Izkušen trener – seminar in kreditne točke",
+      "paragraphs": [
+        {
+          "context": "Sem izkušen trener! (Velja za U14 in navzdol) V kolikor imate ta status odobren preverite v svojem profilu, desno zgoraj, pod PROFIL. Če ga imate boste zasledil napis IZKUŠEN TRENER, ta status vam ostaja priznan in ga ni potrebno obnavljati. V kolikor ga nimate zapisanega in ste že oddali vlogo nam pišite. Vsaki dve leti morate opraviti en seminar katerikoli. Kreditnih točk vam ni potrebno zbirati za kategorije 3. SKL, U20, U18, U16 in nižje.",
+          "qas": [
+            {
+              "id": "q83",
+              "question": "Kakšne so obveznosti izkušenega trenerja za U14 in mlajše?",
+              "answers": [
+                {
+                  "text": "Status izkušenega trenerja je trajen, vsaki dve leti je potreben seminar, kreditnih točk ni treba zbirati za nižje kategorije.",
+                  "answer_start": 153
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oddaja vloge v razvid – kdo je odgovoren",
+      "paragraphs": [
+        {
+          "context": "Vsi, ki ste si pridobili usposobljenost/izobrazbo, morate oddati vlogo za vpis v razvid sami. KZS tega ne more storiti v vašem imenu.",
+          "qas": [
+            {
+              "id": "q84",
+              "question": "Kdo mora oddati vlogo za vpis v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Vsak posameznik sam.",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vloga in diploma – kam pošiljati",
+      "paragraphs": [
+        {
+          "context": "Ko prejmete novo diplomo z nazivom Strokovni delavec 1 ali 2, izpolnite vlogo na http://evem.gov.si/info/dovoljenja/poklic/13191/dovoljenje/13104/prikaziDovoljenje/. Priložite novo diplomo in vse skupaj pošljete na gp.mizs@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, 1000 Ljubljana.",
+          "qas": [
+            {
+              "id": "q85",
+              "question": "Kam in kako pošljete vlogo za vpis v razvid in novo diplomo?",
+              "answers": [
+                {
+                  "text": "Na gp.mizs@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, 1000 Ljubljana.",
+                  "answer_start": 186
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kopija odločbe o vpisu",
+      "paragraphs": [
+        {
+          "context": "Ko prejmete odločbo o vpisu v razvid, pošljite kopijo odločbe na usposabljanja@kosarkarski-trenerji.com.",
+          "qas": [
+            {
+              "id": "q86",
+              "question": "Kaj storite, ko prejmete odločbo o vpisu v razvid?",
+              "answers": [
+                {
+                  "text": "Kopijo odločbe pošljete na usposabljanja@kosarkarski-trenerji.com.",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Financiranje in zaposlitev",
+      "paragraphs": [
+        {
+          "context": "Vse vrste financiranja in zaposlitve strokovnih delavcev preko nacionalnih ali lokalnih virov bodo možne izključno za osebe, ki bodo v register vpisane.",
+          "qas": [
+            {
+              "id": "q87",
+              "question": "Zakaj je pomemben vpis v razvid strokovnih delavcev?",
+              "answers": [
+                {
+                  "text": "Ker je financiranje in zaposlitev možna le za osebe, vpisane v register.",
+                  "answer_start": 81
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Priznavanje usposobljenosti – postopek",
+      "paragraphs": [
+        {
+          "context": "Vsi usposobljeni se delite v dve skupini. Prva skupina: Trenerji z diplomami 1. stopnje, brez definirane stopnje pred 2004, 2. stopnje in 1. razreda, 2. stopnje ali brez definirane stopnje pred 2004. Pred oddajo vloge za vpis v razvid morate izpolniti in oddati obrazec za priznanje strokovne usposobljenosti na področju športa na usposabljanja@kosarkarski-trenerji.com. KZS vam nato izda novo diplomo z novim nazivom.",
+          "qas": [
+            {
+              "id": "q88",
+              "question": "Kaj mora storiti trener s staro diplomo pred oddajo vloge za vpis v razvid?",
+              "answers": [
+                {
+                  "text": "Izpolniti obrazec za priznanje strokovne usposobljenosti in ga poslati na usposabljanja@kosarkarski-trenerji.com, nato prejme novo diplomo.",
+                  "answer_start": 227
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Postopek za 2. in 3. stopnjo",
+      "paragraphs": [
+        {
+          "context": "Druga skupina: Trenerji z diplomami 2. stopnje (Trener košarke mladih, 2. stopnja) in 3. stopnje (Trener košarke 1. razreda, 3. stopnja) ne potrebujejo priznanja nove usposobljenosti. Izpolnijo vlogo na http://evem.gov.si/info/dovoljenja/poklic/13191/dovoljenje/13104/prikaziDovoljenje/, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali po pošti na Ministrstvo za izobraževanje, znanost in šport.",
+          "qas": [
+            {
+              "id": "q89",
+              "question": "Kaj je postopek za trenerje z diplomami 2. ali 3. stopnje?",
+              "answers": [
+                {
+                  "text": "Neposredno izpolnijo vlogo, priložijo staro diplomo in pošljejo na gp.mgts@gov.si ali ministrstvo.",
+                  "answer_start": 166
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpis v razvid – zakonski pogoji",
+      "paragraphs": [
+        {
+          "context": "Skladno z Zakonom o športu (ZŠPo-1) je potrebno oddati vlogo za vpis v razvid strokovnih delavcev v športu. Strokovno delo v športu lahko opravlja le tisti, ki ima ustrezno izobrazbo ali usposobljenost in je vpisan v razvid strokovno izobraženih in strokovno usposobljenih delavcev v športu.",
+          "qas": [
+            {
+              "id": "q90",
+              "question": "Kakšni so pogoji za opravljanje strokovnega dela v športu po ZŠPo-1?",
+              "answers": [
+                {
+                  "text": "Ustrezna izobrazba ali usposobljenost in vpis v razvid strokovnih delavcev.",
+                  "answer_start": 125
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
